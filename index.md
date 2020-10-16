@@ -31,6 +31,9 @@ Lista de software instalado (ultima version)
 - youtube-dl
 - dunst
 
+Imagenes de la version 0.1.0
+![](images/1.png)
+
 ### Contacto
 
 Cualquier apoyo, duda o comentario sera bien recibido <br>
