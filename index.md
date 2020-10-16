@@ -33,8 +33,8 @@ Lista de software instalado (ultima version)
 - polybar
 - cups
 
-###Imagenes de la version 0.1.1 Babyshell
-###Imagenes de la version 0.1.0 Babyfish
+### Imagenes de la version 0.1.1 Babyshell
+### Imagenes de la version 0.1.0 Babyfish
 ![](images/1.png)
 ![](images/2.png)
 ![](images/3.png)
