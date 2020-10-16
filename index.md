@@ -7,7 +7,7 @@ Derivado del latin nemo = nadie<br>
 Os = Operative System
 
 
-Eh creado **NemOs**
+Eh creado **NemOs** <br>
 NemOs es una distribucion basada en debian, preconfigurada para verse hermosa(en mi perspectiva :')) ademas de funcional, sin software de mas, simplemente lo necesario
 y una que otra funcion mamalona (increible)
 
