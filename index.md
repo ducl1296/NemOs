@@ -47,5 +47,5 @@ Imagenes de la version 0.1.0
 ### Contacto
 
 Cualquier apoyo, duda o comentario sera bien recibido <br>
-telegram: @ducl1296 <br>
-correo: ducl1296@gmail.com
+Telegram: @ducl1296 <br>
+Correo: ducl1296@gmail.com
