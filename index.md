@@ -33,6 +33,6 @@ Lista de software instalado (ultima version)
 
 ### Contacto
 
-Cualquier apoyo, duda o comentario sera bien recibido<br>
-telegram: @ducl1296<br>
+Cualquier apoyo, duda o comentario sera bien recibido <br>
+telegram: @ducl1296 <br>
 correo: ducl1296@gmail.com
