@@ -43,7 +43,7 @@ Lista de software instalado (ultima version)
 ![](images/6.png)
 ![](images/7.png)
 
-[Descarga NemOs.0.1.1 Babyshell](https://racaty.net/ah0vufwc1isx)
+[Descarga NemOs.0.1.1 Babyshell](https://racaty.net/ah0vufwc1isx) <br>
 [Descarga NemOs.0.1.0 Babyfish](https://racaty.net/s1liryqskepy)
 
 ### Contacto
