@@ -17,36 +17,23 @@ Tan rapido como pueda o disponga de tiempo me gustaria solucionarlo.
 
 Lista de software instalado (ultima version)
 
-+i3
-
-+xorg
-
-+slim
-
-+google chrome
-
-+libre office
-
-+notepad++
-
-+wine
-
-+rofi
-
-+lxappearance
-
-+nemo
-
-+python3-pip
-
-+telegram-send
-
-+youtube-dl
-
-+dunst
+- i3
+- xorg
+- slim
+- google chrome
+- libre office
+- notepad++
+- wine
+- rofi
+- lxappearance
+- nemo
+- python3-pip
+- telegram-send
+- youtube-dl
+- dunst
 
 ### Contacto
 
 Cualquier apoyo, duda o comentario sera bien recibido
-telegram: @ducl1296
+telegram: @ducl1296<br>
 correo: ducl1296@gmail.com
