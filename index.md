@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Bienvenido a NemOs
 
-You can use the [editor on GitHub](https://github.com/ducl1296/nemOs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Buen dia viajante, te preguntaras que es **NemOs**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Derivado del latin nemo = nadie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Os = Operative System
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Eh creado **NemOs**
+NemOs es una distribucion basada en debian, preconfigurada para verse hermosa(en mi perspectiva :')) ademas de funcional, sin software de mas, simplemente lo necesario
+y una que otra funcion mamalona (increible)
 
-- Bulleted
-- List
+NemOs aun se encuentra en desarollo puede tener errores, puede que algunas cosas no funcionen bien, si quieres colaborar conmigo o solo notificar el error te puedes poner en contacto via telegram o correo electronico!
+Tan rapido como pueda o disponga de tiempo me gustaria solucionarlo.
 
-1. Numbered
-2. List
+Lista de software instalado (ultima version)
 
-**Bold** and _Italic_ and `Code` text
++i3
 
-[Link](url) and ![Image](src)
-```
++xorg
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++slim
 
-### Jekyll Themes
++google chrome
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ducl1296/nemOs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
++libre office
 
-### Support or Contact
++notepad++
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++wine
+
++rofi
+
++lxappearance
+
++nemo
+
++python3-pip
+
++telegram-send
+
++youtube-dl
+
++dunst
+
+### Contacto
+
+Cualquier apoyo, duda o comentario sera bien recibido
+telegram: @ducl1296
+correo: ducl1296@gmail.com
