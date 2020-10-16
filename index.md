@@ -3,8 +3,7 @@
 Buen dia viajante, te preguntaras que es **NemOs**
 
 
-Derivado del latin nemo = nadie
-
+Derivado del latin nemo = nadie<br>
 Os = Operative System
 
 
@@ -34,6 +33,6 @@ Lista de software instalado (ultima version)
 
 ### Contacto
 
-Cualquier apoyo, duda o comentario sera bien recibido
+Cualquier apoyo, duda o comentario sera bien recibido<br>
 telegram: @ducl1296<br>
 correo: ducl1296@gmail.com
