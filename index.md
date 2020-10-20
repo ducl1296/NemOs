@@ -1,7 +1,7 @@
 # Bienvenido a NemOs
 
 <p align="center">
-  <img src=images/logo.png>
+  <img src="images/logo.png">
 </p>
 
 Buen dia viajante, te preguntaras que es **NemOs**
