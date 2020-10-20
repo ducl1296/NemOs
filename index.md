@@ -35,13 +35,13 @@ Lista de software instalado (ultima version)
 
 ### Imagenes de la version 0.1.1 Babyshell
 ### Imagenes de la version 0.1.0 Babyfish
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
-![](images/5.png)
-![](images/6.png)
-![](images/7.png)
+![](images/0.1.0/1.png)
+![](images/0.1.0/2.png)
+![](images/0.1.0/3.png)
+![](images/0.1.0/4.png)
+![](images/0.1.0/5.png)
+![](images/0.1.0/6.png)
+![](images0.1.0//7.png)
 
 [Descarga NemOs.0.1.1 Babyshell](https://racaty.net/ah0vufwc1isx) <br>
 [Descarga NemOs.0.1.0 Babyfish](https://racaty.net/s1liryqskepy)
