@@ -1,6 +1,8 @@
 # Bienvenido a NemOs
 
-![NemOs](images/logo.png) <br>
+<p align="center">
+  <img src=images/logo.png>
+</p>
 
 Buen dia viajante, te preguntaras que es **NemOs**
 
