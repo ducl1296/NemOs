@@ -1,6 +1,6 @@
 # Bienvenido a NemOs
 <div align="center">
-![NemOs](images/logo.png)
+  ![NemOs](images/logo.png)
 </div>
 Buen dia viajante, te preguntaras que es **NemOs**
 
