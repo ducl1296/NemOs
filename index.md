@@ -38,9 +38,9 @@ Lista de software instalado (ultima version)
 - cups
 
 ### Imagenes de la version 0.1.1 Babyshell
-### Imagenes de la version 0.1.0 Babyfish
+
 <details>
-  <summary>Imagenes de la version 0.1.0 Babyfish</summary>
+  <summary><h2>Imagenes de la version 0.1.0 Babyfish</h2></summary>
   <img src="images/0.1.0/1.png">
   <img src="images/0.1.0/2.png">
   <img src="images/0.1.0/3.png">
