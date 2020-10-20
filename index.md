@@ -40,7 +40,7 @@ Lista de software instalado (ultima version)
 ### Imagenes de la version 0.1.1 Babyshell
 
 <details>
-  <summary><h3>Imagenes de la version 0.1.0 Babyfish</h3></summary>
+  <summary>Imagenes de la version 0.1.0 Babyfish</summary>
   <img src="images/0.1.0/1.png">
   <img src="images/0.1.0/2.png">
   <img src="images/0.1.0/3.png">
