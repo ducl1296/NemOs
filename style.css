@@ -19,3 +19,16 @@ body, html {
   min-height: 100%;
   background-size: auto;
 }
+
+h3{
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: white;
+  text-align:center
+}
+
+.text{
+  background-color:#1C2833;
+  padding:50px 80px;
+}
