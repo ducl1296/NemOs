@@ -12,6 +12,8 @@ body, html {
   background-color: #000000;
   background-size: cover;
   min-height: 100%;
+  background-attachment: fixed;
+
 }
 
 .logo{
@@ -43,4 +45,3 @@ h3{
 }
 .separadorcuatro{
   background-image: url("images/web/flor.png");
-}
