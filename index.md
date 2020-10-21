@@ -1,7 +1,5 @@
 # Bienvenido a NemOs
-<head>
-  <link rel="icon" href="images/ico.png" type="image/png">
-</head>
+
 <p align="center">
   <img src="images/logo.png">
 </p>
