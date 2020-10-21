@@ -5,7 +5,7 @@ body, html {
   color: White;
 }
 
-.logo, .separadoruno, .separadordos{
+.logo, .separadoruno, .separadordos, .separadortres, .separadorcuatro{
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -37,4 +37,10 @@ h3{
 }
 .separadordos{
   background-image: url("images/web/cohete.png");
+}
+.separadortres{
+  background-image: url("images/web/delfines.png");
+}
+.separadorcuatro{
+  background-image: url("images/web/flor.png");
 }
