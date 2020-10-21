@@ -1,0 +1,21 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: White;
+}
+
+.logo{
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #642580;
+  background-size: cover;
+  min-height: 100%;
+}
+
+.logo{
+  background-image: url("images/logo.png");
+  min-height: 100%;
+  background-size: auto;
+}
