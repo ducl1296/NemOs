@@ -45,3 +45,12 @@ h3{
 }
 .separadorcuatro{
   background-image: url("images/web/flor.png");
+
+.left{
+  float: left;
+  width: 50%;
+}
+.right{
+  float: right;
+  width: 50%;
+}
