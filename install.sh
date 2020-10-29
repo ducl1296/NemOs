@@ -26,3 +26,19 @@ sudo rm /etc/mpd.conf
 #Allow Bitmaps
 sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 #Sofware extra
+read -r -p "Quieres instalar chrome? [y/N] " response
+if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
+then
+    sudo dpkg -i software/google-chrome-amd64.debian
+    sudo apt -f install
+else
+    echo "No se instalara"
+fi
+#Quieres reiniciar?
+read -r -p "Quieres reiniciar el pc? [y/N] " response
+if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
+then
+    systemctl reboot
+else
+    echo "Termino la instalacion, si quieres aplicar los cambios, reinicia"
+fi
