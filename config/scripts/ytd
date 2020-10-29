@@ -1,0 +1,6 @@
+#!/bin/bash
+url=$(echo "" | rofi -dmenu -p "Dame tu url de youtube > ")
+cd ~/Descargas
+echo "$url"
+youtube-dl "$url"
+notify-send -u low "Se Descargo tu video, buscalo en descargas"

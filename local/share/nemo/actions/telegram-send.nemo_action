@@ -1,0 +1,10 @@
+[Nemo Action]
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Exec=telegram-send --file %F
+Icon=telegram
+Name=Send to Telegram
+Selection=any
+Extensions=nodirs;
+Quote=double

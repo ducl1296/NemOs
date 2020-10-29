@@ -1,0 +1,5 @@
+#!/bin/bash
+nmcli device wifi list
+echo "A que wifi te quieres conectar"
+read wifo
+nmcli --ask device wifi connect "$wifo"

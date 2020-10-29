@@ -1,0 +1,6 @@
+#!/bin/bash
+url=$(echo "" | rofi -dmenu -p "Dame una url de youtube > ")
+cd ~/Descargas
+youtube-dl -x --audio-format "mp3" "$url"
+notify-send -u low "audio descargado"
+
