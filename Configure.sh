@@ -6,3 +6,5 @@ cp -r local/* /home/"$USER"/.local
 #Allow Bitmaps
 sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
 sudo rm /etc/mpd.conf
+mkdir /home/"$USER"/.themes
+cp -r themes/* /home/"$USER"/.themes
